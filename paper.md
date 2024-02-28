@@ -1,8 +1,11 @@
 #Title
 Aircraft measurements and simulations  of biomass burning aerosols over West Africa. 
+
 #Author 
-Emmanouela Mitta
 John Smith
+Emmanouela Mitta
+
+
 #Introduction
 We present aircraft measurements of BB0A over West Africa.
 
