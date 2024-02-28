@@ -24,3 +24,6 @@ We compared our measurements of particle size aging with a model simulation. The
 
 #Results
 Simulations indicate that co-agulation is the dominant growth mechanism for these particles.
+
+#Figures
+Figures go in their own section in a draft paper.
