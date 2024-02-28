@@ -3,6 +3,8 @@ Simulations of biomass burning aerosols over West Africa
 #Author 
 Emmanouela Mitta
 John Smith
+John Doe
+
 #Introduction
 We present aircraft measurements of BB0A over West Africa.
 
